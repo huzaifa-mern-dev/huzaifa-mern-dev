@@ -1,4 +1,3 @@
-![MasterHead](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47f4y3mnotmr69dmpempj78qwx4ietffp5ibnv4aou&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 
 <div align="center">
 
