@@ -12,7 +12,7 @@
   <a href="https://www.facebook.com/muhammadhuzaifa19/" target="_blank"><img src="./assets/facebook.png" alt="Facebook" style="width: 40px; height: 40px; margin-right: 10px; vertical-align: middle;"></a>
 <a href="https://www.instagram.com/huzaifa_dev_92/" target="_blank"><img src="./assets/instagram.png" alt="Instagram" style="width: 40px; height: 40px; margin-right: 10px; vertical-align: middle;"></a>
 <a href="https://www.linkedin.com/in/huzaifa-dev/" target="_blank"><img src="./assets/linkedin.png" alt="LinkedIn" style="width: 40px; height: 40px; margin-right: 10px; vertical-align: middle;"></a>
-<a href="mailto:muhammadusama30289@gmail.com
+<a href="mailto:huzaifa.fullstack@gmail.com
 " target="_blank"><img src="./assets/gmail.png" alt="Gmail" style="width: 40px; height: 40px; margin-right: 10px; vertical-align: middle;"></a>
 </div>
 
